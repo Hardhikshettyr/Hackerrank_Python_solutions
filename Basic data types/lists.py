@@ -17,3 +17,4 @@ if __name__ == '__main__':
             L.sort();
         else:
             L.reverse();
+            
