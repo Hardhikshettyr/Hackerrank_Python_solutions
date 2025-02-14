@@ -8,4 +8,5 @@ if __name__ == '__main__':
     query_name = input()
 output = list(student_marks[query_name])    
 per = sum(output)/len(output);
-print("%.2f" % per);    
+print("%.2f" % per);   
+
